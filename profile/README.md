@@ -23,9 +23,3 @@ We welcome collaboration from external contributors! If you are interested in jo
 2. **Onboarding**: Upon approval, you will be invited to join the `daytonaio-experiments` GitHub organization.
 3. **Experiment Proposal**: Submit your experiment proposal for review.
 4. **Repository Creation**: Once approved, create a new repository following our naming convention.
-
-## Contact Information
-
-To learn more about Daytona, our initiatives, or how to get involved, visit our [website](https://www.daytona.io) or contact us directly at [experiments@daytona.io](mailto:experiments@daytona.io).
-
-Together, we can turn ideas into reality!

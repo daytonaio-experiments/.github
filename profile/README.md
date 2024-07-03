@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-Welcome to the official GitHub page for Daytona Experiments!
+Welcome to the official GitHub page for [Daytona](https://github.com/daytonaio/daytona) Experiments!
 
 ## About Daytona
 
-Daytona is an open source development environment manager. Daytona simplifies the process of creating standard and secure environments, automates environment setups on branches, and shares environments seamlessly. It also integrates with your IDE or Git provider, adhering to standards such as Development Container, Devfile, Nix and others. 
+Daytona is an [open source development environment manager](https://www.daytona.io/dotfiles/daytona-goes-open-source). Daytona simplifies the process of creating standard and secure environments, automates environment setups on branches, and shares environments seamlessly. It also integrates with your IDE or Git provider, adhering to standards such as Development Container, Devfile, Nix and others. 
 
 ## About Daytona Experiments
 
-**Daytona Experiments** is an initiative under the Daytona brand designed to foster experimentation and innovation among external collaborators, including students, researchers, and tech enthusiasts. By providing a structured environment and the necessary resources, we aim to empower individuals to conduct meaningful experiments and contribute to the broader tech community.
+**Daytona Experiments** is an initiative under the Daytona designed to foster experimentation and innovation among external collaborators, including students, researchers, and tech enthusiasts. By providing a structured environment and the necessary resources, we aim to empower individuals to conduct meaningful experiments and contribute to the broader tech community.
 
 ### Our Goals:
 - **Empower Innovators**: Provide a platform for individuals to initiate and execute innovative experiments.

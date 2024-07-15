@@ -22,4 +22,6 @@ We welcome collaboration from external contributors! If you are interested in jo
 1. **Contact Us**: Reach out to us via our [community Slack](https://go.daytona.io/slack)
 2. **Onboarding**: Upon approval, you will be invited to join the `daytonaio-experiments` GitHub organization.
 3. **Experiment Proposal**: Submit your experiment proposal for review.
-4. **Repository Creation**: Once approved, create a new repository following our naming convention.
+4. **Repository Creation**: Once approved, we will create a new repository and assign it to you.
+5. **Weekly Checkpoints**: Participate in regular weekly checkpoints where you will present your work. Based on the reviews, you will either receive approval to continue or be advised on necessary adjustments.
+6. **Offboarding**: Complete your project after successfully passing all checkpoints. If you fail to meet the criteria at any checkpoint, the offboarding process will be initiated.

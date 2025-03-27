@@ -4,7 +4,9 @@ Welcome to the official GitHub page for [Daytona](https://github.com/daytonaio/d
 
 ## About Daytona
 
-Daytona is an [open source development environment manager](https://www.daytona.io/dotfiles/daytona-goes-open-source). Daytona simplifies the process of creating standard and secure environments, automates environment setups on branches, and shares environments seamlessly. It also integrates with your IDE or Git provider, adhering to standards such as Development Container, Devfile, Nix and others. 
+Daytona is a **secure, scalable runtime for AI-generated code execution and agent workflows**. Our open-source platform provides lightning-fast infrastructure (200ms startup) with complete isolation, giving developers and AI systems a safe sandbox for running generated code without risk. The comprehensive **Daytona SDK** offers programmatic control over workspace creation, file operations, and process execution—essential components for building robust AI agents with dynamic lifecycles.
+
+**Daytona Enterprise** delivers production-ready infrastructure for organizations building AI applications with enterprise-grade security, compliance tools, and flexible deployment options. Our stateful environment snapshots enable persistent agent operations across sessions, making Daytona the ideal foundation for Fortune 500 companies and startups implementing AI agent architectures.
 
 ## About Daytona Experiments
 
